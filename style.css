@@ -1,0 +1,35 @@
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 110px;
+    padding-top: 20px;
+}
+.half-width img{
+    width: 100%;
+}
+
+h1{
+    font-size: 60px;
+    line-height: 0.8;
+    color: rgb(65, 65, 65);
+
+}
+h3{color: grey;}
+a{
+    background-image: linear-gradient(orange, orangered, tomato);
+    border-radius: 20px;
+    padding: 10px 35px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
